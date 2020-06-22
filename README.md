@@ -1,5 +1,8 @@
 # getting-started-with-ngrx
 
+![flow](./flow.png)
+**[image source](https://indepth.dev/how-to-start-flying-with-angular-and-ngrx/)**
+
 This repo is made for a list of resources for getting started with [NgRx](https://ngrx.io/).
 
 ## Getting Started
